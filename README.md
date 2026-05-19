@@ -12,5 +12,8 @@ For technical inquiries or feedback:
 BulletApe
 masteregme@gmail.com
 
+Download @
+https://github.com/CLICK-CLICK-BOOM/Game-Store-Wrangler
+
 ## Policy
 As this is a free utility, there are no purchase costs or refunds. Support is provided on a best-effort basis.
