@@ -9,8 +9,8 @@ This software is provided for free. If you find it useful and would like to supp
 
 ## Contact
 For technical inquiries or feedback:
-Abe Vares
-abevares@gmail.com
+BulletApe
+masteregme@gmail.com
 
 ## Policy
 As this is a free utility, there are no purchase costs or refunds. Support is provided on a best-effort basis.
